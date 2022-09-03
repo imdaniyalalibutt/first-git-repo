@@ -1,0 +1,29 @@
+[33mcommit 8d1ba27bcfee6d7dc6b972ad7f729ee110e03eb9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Daniyal Ali <im.daniyalalibutt.com>
+Date:   Sun Sep 4 01:32:31 2022 +0500
+
+    call check reboot from main, exit with 1 on error
+
+[33mcommit f2589074facf92876f8612b1461fd5bb5f2671e9[m
+Author: Daniyal Ali <im.daniyalalibutt.com>
+Date:   Sat Sep 3 19:40:09 2022 +0500
+
+    added a check_reboot function
+
+[33mcommit 5185102f3026d69a00c764df1cc237490642a9f5[m
+Author: Daniyal Ali <im.daniyalalibutt.com>
+Date:   Sat Sep 3 19:26:23 2022 +0500
+
+    added two folders
+
+[33mcommit e8740a95796770dae13c6f0a4f70fc6c7ed5e1a9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniyal Ali <im.daniyalalibutt.com>
+Date:   Sat Sep 3 18:37:56 2022 +0500
+
+    Add new gittestfile in first git repo.
+
+[33mcommit 59e6e5eeb9f5ade4d42e1ff8a6cf8799f4f8a3c6[m
+Author: imdaniyalalibutt <71027768+imdaniyalalibutt@users.noreply.github.com>
+Date:   Sat Sep 3 03:50:54 2022 +0500
+
+    Initial commit
